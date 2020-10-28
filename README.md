@@ -1,2 +1,3 @@
-# jotunn_website
-Website for Jotunn Dev
+# Jotunn Website
+
+To be filled out soon

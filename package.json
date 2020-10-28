@@ -1,0 +1,29 @@
+{
+  "name": "jotunn_website",
+  "version": "0.0.1",
+  "description": "Website for Jotunn Development",
+  "main": "/src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "git+https://github.com/Jotunn-Development/jotunn_website.git",
+  "keywords": [
+    "jotunn",
+    "development"
+  ],
+  "author": "Jotunn Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jotunn-Development/jotunn_website/issues"
+  },
+  "homepage": "https://github.com/Jotunn-Development/jotunn_website#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^3.7.0",
+    "fastify-mongodb": "^2.0.1",
+    "fastify-plugin": "^3.0.0"
+  },
+  "private": false,
+  "devDependencies": {}
+}
